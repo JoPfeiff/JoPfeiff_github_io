@@ -4,15 +4,13 @@ highlighter:      rouge
 
 # Permalinks
 permalink:        pretty
-# permalink:        about.html
 permalink:        about.md
-# permalink:        publications.html
 permalink:        publications.md
 absolute_permalinks: true
 # relative_permalinks: true
 
 # Setup
-title:            pfeiffer.ai
+title:            Jonas Pfeiffer
 tagline:          'Jonas Pfeiffer'
 description:      'Hi2 Im a first year PhD student at the <a href="https://www.informatik.tu-darmstadt.de/ukp/ukp_home/index.en.jsp" target="_blank">UKP Lab at TU Darmstadt</a>. I work on NLP problems basically all the time because I dont have any private life outside the field... '
 url:              http://www.pfeiffer.ai
@@ -26,7 +24,7 @@ author:
 paginate:         5
 
 # Custom vars
-version:          2.1.0
+# version:          2.1.0
 
 github:
   repo:           https://github.com/JoPfeiff
