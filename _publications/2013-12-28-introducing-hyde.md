@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: publication
 title: Introducing Hyde
 ---
 
