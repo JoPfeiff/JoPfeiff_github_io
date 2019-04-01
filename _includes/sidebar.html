@@ -26,6 +26,8 @@
         {% endif %}
       {% endfor %}
 
+    <a class="sidebar-nav-item{% if publication.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}">Publications</a>
+    
       {% assign publications_list = site.publications %}
       {% for node in publications_list %}
         {% if node.title != null %}
