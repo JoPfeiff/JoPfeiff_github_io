@@ -13,7 +13,7 @@ absolute_permalinks: true
 title:            Jonas Pfeiffer
 tagline:          'Jonas Pfeiffer'
 description:      'Im a first year PhD student at the <a href="https://www.informatik.tu-darmstadt.de/ukp/ukp_home/index.en.jsp" target="_blank">UKP Lab at TU Darmstadt</a>. I work on NLP problems basically all the time because I dont have a life. '
-url:              http://www.pfeiffer.ai
+url:              https://www.pfeiffer.ai
 # url:              http://hyde.getpoole.com
 baseurl:          /
 
