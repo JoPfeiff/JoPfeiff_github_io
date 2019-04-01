@@ -9,7 +9,7 @@ permalink:        pretty
 # Setup
 title:            pfeiffer.ai
 tagline:          'Jonas Pfeiffer'
-description:      'Im a first year PhD student at the <a href="https://www.informatik.tu-darmstadt.de/ukp/ukp_home/index.en.jsp" target="_blank">UKP Lab at TU Darmstadt</a>. I work on NLP problems basically all the time because I dont have any private life outside the field... '
+description:      'Hi Im a first year PhD student at the <a href="https://www.informatik.tu-darmstadt.de/ukp/ukp_home/index.en.jsp" target="_blank">UKP Lab at TU Darmstadt</a>. I work on NLP problems basically all the time because I dont have any private life outside the field... '
 url:              http://hyde.getpoole.com
 baseurl:          /
 
