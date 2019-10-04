@@ -1,6 +1,6 @@
 ---
 layout: post
-title: [Update] Best Paper Award at Repl4NLP
+title: Update - Best Paper Award at Repl4NLP
 ---
 
 Our paper [Specializing Distributional Vectors of All Words for Lexical Entailment](https://www.aclweb.org/anthology/W19-4310.pdf) won the best paper award!
