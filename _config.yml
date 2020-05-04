@@ -12,7 +12,7 @@ absolute_permalinks: true
 # Setup
 title:            Jonas Pfeiffer
 tagline:          'Jonas Pfeiffer'
-description:      'I''m a first year PhD student at the <a href="https://www.informatik.tu-darmstadt.de/ukp/ukp_home/index.en.jsp" target="_blank">UKP Lab at TU Darmstadt</a>.'
+description:      'I''m a second year PhD student at the <a href="https://www.informatik.tu-darmstadt.de/ukp/ukp_home/index.en.jsp" target="_blank">UKP Lab at TU Darmstadt</a>.'
 url:              https://www.pfeiffer.ai
 # url:              http://hyde.getpoole.com
 baseurl:          /
