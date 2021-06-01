@@ -1,0 +1,11 @@
+I"Ú<p>Adapters are a new, efficient and composable alternative to full fine-tuning of pre-trained language models.
+  <a href="https://AdapterHub.ml">AdapterHub.ml</a> makes working with adapters accessible by providing a framework for training, sharing, discovering and consuming adapter modules.</p>
+
+<p>Check out these blog posts for more details:</p>
+<ul>
+  <li><a href="https://adapterhub.ml/blog/2020/11/adapting-transformers-with-adapterhub/">AdapterHub v1.0</a></li>
+  <li><a href="https://adapterhub.ml/blog/2021/04/version-2-of-adapterhub-released/">AdapterHub v2.0</a></li>
+  <li><a href="https://adapterhub.ml/blog/2021/04/adapters-for-generative-and-seq2seq-models-in-nlp/">Adapters for Generative Models</a></li>
+</ul>
+
+:ET

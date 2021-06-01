@@ -1,0 +1,39 @@
+I"ß<div class="projects">
+  
+  <!-- Display categorized projects -->
+    
+      <h2 class="category">work</h2>
+      
+      
+      <!-- Generate cards for each project -->
+      
+        <div class="grid">
+          
+            <div class="grid-item">
+  
+  <a href="/projects/AdapterHub_project/">
+  
+    <div class="card hoverable">
+      
+      <img src="/assets/img/adapterhub.png" alt="project thumbnail" />
+      
+      <div class="card-body">
+        <h2 class="card-title text-lowercase">AdapterHub</h2>
+        <p class="card-text">Adapting Transformers with AdapterHub</p>
+        <div class="row ml-1 mr-1 p-0">
+          
+        </div>
+      </div>
+    </div>
+  </a>
+</div>
+
+          
+        </div>
+      
+    
+
+  
+
+</div>
+:ET
